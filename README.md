@@ -1,16 +1,22 @@
-## Hi there 👋
+### Salut, moi c'est Tom 👋
 
-<!--
-**tom200504/tom200504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en ingénierie informatique (CY Tech), actuellement en échange à la **Dublin Business School** (sept.–déc. 2026).
 
-Here are some ideas to get you started:
+Je cherche un **stage de 6 mois à partir de janvier/février 2027**, partout dans le monde. Ouvert à toutes les opportunités, sur l'ensemble des domaines informatiques — cybersécurité, développement logiciel, IA & automatisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Ce que je fais en ce moment**
+
+En parallèle de mes études, je me forme en autodidacte à travers des projets concrets — IA appliquée, automatisation, développement full-stack — et je gère des projets clients en tant que chef de projet à la Junior-Entreprise de mon école.
+
+**Quelques projets**
+
+- [`Agent-IA`](https://github.com/tom200504/Agent-IA) — Agent IA qui qualifie, répond et relance automatiquement les leads immobiliers (Make.com, OpenAI API, Firebase). [Démo en ligne →](https://agent-ia-tom.web.app/)
+- [`proms_students_C`](https://github.com/tom200504/proms_students_C) — Gestion d'une promotion d'étudiants en C : sérialisation binaire, chiffrement, API exposée en bibliothèque statique et dynamique.
+- `SmartHome` — Plateforme IoT full-stack (Java / Spring Boot), projet d'équipe — *repo à venir*
+- `SmartFarm` — Application de géométrie computationnelle (Java / JavaFX, triangulation de Delaunay) — *repo à venir*
+
+---
+
+📫 Toujours ouvert pour discuter stage, projets ou automatisation IA — n'hésite pas à me contacter.
