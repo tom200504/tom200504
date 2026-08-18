@@ -14,8 +14,8 @@ En parallèle de mes études, je me forme en autodidacte à travers des projets 
 
 - [`Agent-IA`](https://github.com/tom200504/Agent-IA) — Agent IA qui qualifie, répond et relance automatiquement les leads immobiliers (Make.com, OpenAI API, Firebase). [Démo en ligne →](https://agent-ia-tom.web.app/)
 - [`proms_students_C`](https://github.com/tom200504/proms_students_C) — Gestion d'une promotion d'étudiants en C : sérialisation binaire, chiffrement, API exposée en bibliothèque statique et dynamique.
-- `SmartHome` — Plateforme IoT full-stack (Java / Spring Boot), projet d'équipe — *repo à venir*
-- `SmartFarm` — Application de géométrie computationnelle (Java / JavaFX, triangulation de Delaunay) — *repo à venir*
+- [`SmartHome`](https://github.com/tom200504/SmartHome)  — Plateforme IoT full-stack (Java / Spring Boot), projet d'équipe.
+- [`SmartFarm`](https://github.com/tom200504/SmartFarm)  — Application de géométrie computationnelle (Java / JavaFX, triangulation de Delaunay).
 
 ---
 
