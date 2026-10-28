@@ -3,7 +3,7 @@
 Computer Engineering student at CY Tech, currently on exchange at
 **Dublin Business School** (Sept–Dec 2026).
 
-Looking for a **6-month internship starting January/February 2027**, anywhere
+Looking for a **6-month internship starting March 2027**, anywhere
 in the world. Open to opportunities across the board — cybersecurity, software
 engineering, AI & automation.
 
